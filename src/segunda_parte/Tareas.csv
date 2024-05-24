@@ -1,0 +1,60 @@
+1;Optimize system performance;8;true;30
+2;Monitor network traffic;5;false;48
+3;Monitor system alerts;9;false;4
+4;Conduct security training;7;false;81
+5;Create user manuals;7;false;49
+6;Manage software licenses;9;true;28
+7;Manage software licenses;8;true;21
+8;Monitor system logs;4;false;64
+9;Implement data encryption;1;true;93
+10;Install server software;6;false;91
+11;Perform data migrations;2;true;81
+12;Install antivirus;2;true;58
+13;Automate routine tasks;9;false;22
+14;Install antivirus;8;true;45
+15;Collaborate with vendors;9;true;32
+16;Configure email settings;1;true;85
+17;Respond to help desk tickets;10;true;81
+18;Perform system audits;7;true;65
+19;Set up new user accounts;5;false;22
+20;Upgrade operating systems;7;true;31
+21;Set up new user accounts;2;false;22
+22;Virtualize servers;9;true;31
+23;Coordinate IT projects;3;true;40
+24;Set up new user accounts;4;true;84
+25;Configure firewalls;10;true;26
+26;Optimize network performance;7;false;57
+27;Secure wireless networks;3;true;29
+28;Update software;5;false;59
+29;Manage user permissions;3;true;62
+30;Backup data;9;false;85
+31;Monitor server resources;10;true;93
+32;Implement data encryption;7;true;81
+33;Develop IT policies;10;true;40
+34;Research new technologies;4;true;15
+35;Create data backups;1;true;10
+36;Secure wireless networks;3;false;60
+37;Implement security patches;7;true;66
+38;Backup data;6;false;86
+39;Update software;10;true;23
+40;Perform system audits;4;true;37
+41;Perform data migrations;4;false;80
+42;Monitor network traffic;3;false;97
+43;Monitor system alerts;3;false;61
+44;Troubleshoot email problems;5;false;32
+45;Backup data;9;true;66
+46;Monitor server resources;6;true;15
+47;Optimize database performance;8;true;3
+48;Optimize network performance;5;true;38
+49;Implement access controls;2;false;12
+50;Resolve DNS issues;7;true;10
+51;Backup data;3;true;71
+52;Automate routine tasks;3;false;31
+53;Troubleshoot email problems;5;false;80
+54;Virtualize servers;1;false;1
+55;Backup data;2;true;35
+56;Troubleshoot network issues;5;false;37
+57;Set up new user accounts;6;false;78
+58;Resolve printer problems;6;true;54
+59;Virtualize servers;2;false;26
+60;Secure wireless networks;6;false;72
